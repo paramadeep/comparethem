@@ -36,6 +36,10 @@ export default {
       name: "side",
       input: 2,
     },
+    {
+      name: "hide",
+      input: 2,
+    },
   ],
   output: ["cost"],
   reportRow: "quantity",
